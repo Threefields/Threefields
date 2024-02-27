@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://app.daily.dev/Threefields"><img src="https://github.com/Threefields/Threefields/blob/main/devcard.svg" width="400" alt="Stefanos Trialonis's Dev Card"/></a>
+<a href="https://app.daily.dev/threefields"><img src="https://github.com/Threefields/Threefields/blob/main/devcard.svg" width="400" alt="Stefanos Trialonis's Dev Card"/></a>
 
 <!--
 **Threefields/Threefields** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
